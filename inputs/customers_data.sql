@@ -1,15 +1,8 @@
 -- Lihat Data
 SELECT * FROM Pelanggan;
 
-
-CREATE TABLE Pelanggan (
-    id_pelanggan VARCHAR(20) PRIMARY KEY,
-    nama_lengkap VARCHAR(100) NOT NULL,
-    nomor_telepon VARCHAR(20),
-    email VARCHAR(100)
-);
-
-
--- Testing Inputs
-INSERT INTO Pelanggan (id_pelanggan, nama_lengkap, nomor_telepon, email)
-VALUES ('C1', 'Fara Utami', '08123456789', 'fara@example.com');
+INSERT INTO Pelanggan (id_pelanggan, nama_lengkap, nomor_telepon, email) VALUES
+('C001', 'Hamid', '0811111111', 'hamid@email.com'),
+('C002', 'Louis', '0822222222', 'louis@email.com'),
+('C003', 'Raja', '0833333333', 'raja@email.com'),
+('C004', 'Octaf', '0844444444', 'octaf@email.com');

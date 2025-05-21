@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/inputs/anggota.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/bahan_baku.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/inputs/customers_data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/detail_pesanan.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/diskon.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/meja.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/menu.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/pemasok.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/penggunaan_bahan_baku.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/pesanan.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/reservasi_meja.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/transaksi_diskon.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inputs/transaksi_selesai.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/relation.sql" dialect="MySQL" />
   </component>
 </project>
